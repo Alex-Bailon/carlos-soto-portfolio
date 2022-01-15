@@ -36,7 +36,7 @@ export default {
     },
     {
       title: `Matthew Reimherr, Karthik Bharath, and Carlos Soto. Differential privacy over riemannian
-        manifolds. < em > Advances in Neural Information Processing Systems</em>, 34, 2021`,
+        manifolds. <em> Advances in Neural Information Processing Systems</em>, 34, 2021`,
       bibText: `@article{reimherr2021differential,
         title={Differential privacy over Riemannian manifolds},
         author={Reimherr, Matthew and Bharath, Karthik and Soto, Carlos},
@@ -48,7 +48,7 @@ export default {
     },
     {
       title: `Jose Cordova, Carlos Soto, Mostafa Gilanifar, Yuxun Zhou, Anuj Srivastava, and Reza Arghandeh.
-        Shape preserving incremental learning for power systems fault detection. < em > IEEE control systems
+        Shape preserving incremental learning for power systems fault detection. <em> IEEE control systems
         letters</em>, 3(1): 85 - 90, 2018`,
       bibText: `@article{cordova2018shape,
         title={Shape preserving incremental learning for power systems fault detection},
