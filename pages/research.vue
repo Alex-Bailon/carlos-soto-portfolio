@@ -1,5 +1,5 @@
 <script>
-import research from '@/assets/research'
+import research from '@/static/research'
 export default {
   name: 'Research',
   data(){

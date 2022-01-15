@@ -1,5 +1,5 @@
 <script>
-import bio from '@/assets/bio'
+import bio from '@/static/bio'
 export default {
   name: 'Bio',
   data(){
