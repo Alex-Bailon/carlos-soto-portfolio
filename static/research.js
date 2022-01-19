@@ -8,6 +8,22 @@ export default {
   theoretical challenges as well as computational implementation.
   `,
   papers: [
+	{
+      title: `Carlos Soto, Audrey Dalgarno, Darshan Bryner, Benjamin McLaughlin, Nicola Neretti, and Anuj
+			Srivastava. Representation of chromosome conformations using a shape alphabet across modeling
+			methods. In <em>2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</em>,
+			pages 151{156, 2021`,
+      bibText: `@INPROCEEDINGS{9669716,
+			author={Soto, Carlos and Dalgarno, Audrey and Bryner, Darshan and McLaughlin, Benjamin and Neretti, Nicola and Srivastava, Anuj},
+			booktitle={2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)}, 
+			title={Representation of Chromosome Conformations Using a Shape Alphabet Across Modeling Methods}, 
+			year={2021},
+			volume={},
+			number={},
+			pages={151-156},
+			doi={10.1109/BIBM52615.2021.9669716}}`,
+      link: 'https://ieeexplore.ieee.org/document/9669716',
+    },
     {
       title: `Carlos Soto, Darshan Bryner, Nicola Neretti, and Anuj Srivastava. Toward a three-dimensional 
         chromosome shape alphabet. <em> Journal of Computational Biology</em>, 2021`,
