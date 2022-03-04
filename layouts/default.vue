@@ -37,8 +37,20 @@
       </v-list>
     </v-navigation-drawer>
     <v-main>
-      <v-container >
-        <Nuxt />
+      <v-container fluid >
+        <v-row>
+          <v-col cols="12" md="2">
+            <v-img src="/profile_img.jpg" />
+            <p class="px-2">Contact information</p>
+            <p class="px-2">Name: Carlos J. Soto</p>
+            <p class="px-2">Email Address: <a href="mailto:cjs7363@psu.edu">cjs7363@psu.edu</a></p>
+            <p class="px-2">GitHub: <a href="https://github.com/otosjc" target="_blank">https://github.com/otosjc</a></p>
+            <p class="px-2">ORCID: 0000-0003-0645-5770</p>
+          </v-col>
+          <v-col cols="12" md="10">
+            <Nuxt />
+          </v-col>
+        </v-row>
       </v-container>
     </v-main>
     <v-footer
