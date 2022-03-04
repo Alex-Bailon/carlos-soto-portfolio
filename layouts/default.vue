@@ -9,10 +9,10 @@
       <div v-if="$vuetify.breakpoint.smAndUp">
         <v-btn v-for="link in links" :key="link.text" :to="link.to" text><v-icon left v-text="link.icon"/>{{ link.text }}</v-btn>
       </div>
-      <v-app-bar-nav-icon v-else @click="navDrawer = true"/>
+      <v-app-bar-nav-icon v-else @click="setYOffset(), navDrawer = true"/>
     </v-app-bar>
     <v-navigation-drawer v-model="navDrawer" absolute temporary>
-      <v-list-item to="/">
+      <v-list-item to="/" :style="{paddingTop: `${yOffset}px`}" >
         <v-list-item-content>
           <v-list-item-title class="text-h6" v-text="title" />
         </v-list-item-content>
@@ -90,7 +90,13 @@ export default {
           icon: 'mdi-file-account'
         }
       ],
-      navDrawer: false
+      navDrawer: false,
+      yOffset: 0
+    }
+  },
+  methods: {
+    setYOffset(){
+      this.yOffset = window.scrollY
     }
   }
 }

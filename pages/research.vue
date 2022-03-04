@@ -9,6 +9,11 @@ export default {
       dialog: false,
       dialogText: ''
     }
+  },
+  methods: {
+    copyBibText(){
+      navigator.clipboard.writeText(this.dialogText)
+    }
   }
 }
 </script>
@@ -31,7 +36,23 @@ export default {
     >
       <v-card>
         <v-card-title primary-title>
-          BibText
+          BibText 
+          <v-tooltip top>
+            <template v-slot:activator="{ on, attrs }">
+              <v-icon
+                color="primary"
+                v-bind="attrs"
+                v-on="on"
+                right
+                @click="copyBibText"
+              >
+                mdi-content-copy
+              </v-icon>
+            </template>
+            <span>Copy BibText to Clipboard</span>
+          </v-tooltip>
+          <v-spacer />
+          <v-icon @click="dialog = false">mdi-close</v-icon>
         </v-card-title>
         <v-card-text v-html="dialogText">
         </v-card-text>
