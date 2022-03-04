@@ -15,7 +15,7 @@ export default {
     <v-row justify="center" align="center">
       <v-col cols="12">
         <h3 v-html="teaching.intro" />
-        <h3 v-html="teaching.quote" />
+        <blockquote class="blockquote" v-html="teaching.quote" />
       </v-col>
     </v-row>
     <v-row v-for="course in teaching.courses" :key="course.title" class="py-5">
