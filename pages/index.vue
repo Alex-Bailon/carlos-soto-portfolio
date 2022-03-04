@@ -1,6 +1,11 @@
 <script>
 export default {
-  name: 'IndexPage'
+  name: 'IndexPage',
+  head(){
+    return {
+      titleTemplate: '%s - Home'
+    }
+  }  
 }
 </script>
 

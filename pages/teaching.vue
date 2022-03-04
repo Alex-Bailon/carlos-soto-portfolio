@@ -2,6 +2,11 @@
 import teaching from '@/static/teaching'
 export default {
   name: 'teachingPage',
+  head(){
+    return {
+      titleTemplate: '%s - Teaching'
+    }
+  },  
   data(){
     return {
       teaching

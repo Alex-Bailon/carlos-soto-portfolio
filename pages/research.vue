@@ -2,6 +2,11 @@
 import research from '@/static/research'
 export default {
   name: 'Research',
+  head(){
+    return {
+      titleTemplate: '%s - Research'
+    }
+  },  
   data(){
     return {
       intro: research.intro,

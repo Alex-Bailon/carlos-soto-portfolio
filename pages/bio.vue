@@ -6,6 +6,11 @@ export default {
     return {
       bio,
     }
+  },
+  head(){
+    return {
+      titleTemplate: '%s - Bio'
+    }
   }
 }
 </script>
