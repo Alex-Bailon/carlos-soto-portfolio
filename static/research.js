@@ -20,7 +20,7 @@ export default {
 			year={2021},
 			volume={},
 			number={},
-			pages={151-156},
+			pages={151--156},
 			doi={10.1109/BIBM52615.2021.9669716}}`,
       link: 'https://ieeexplore.ieee.org/document/9669716',
     },
