@@ -9,10 +9,10 @@
       <div v-if="$vuetify.breakpoint.smAndUp">
         <v-btn v-for="link in links" :key="link.text" :to="link.to" text><v-icon left v-text="link.icon"/>{{ link.text }}</v-btn>
       </div>
-      <v-app-bar-nav-icon v-else @click="navDrawer = true"/>
+      <v-app-bar-nav-icon v-else @click="setYOffset(), navDrawer = true"/>
     </v-app-bar>
     <v-navigation-drawer v-model="navDrawer" absolute temporary>
-      <v-list-item to="/">
+      <v-list-item to="/" :style="{paddingTop: `${yOffset}px`}" >
         <v-list-item-content>
           <v-list-item-title class="text-h6" v-text="title" />
         </v-list-item-content>
@@ -37,8 +37,20 @@
       </v-list>
     </v-navigation-drawer>
     <v-main>
-      <v-container >
-        <Nuxt />
+      <v-container fluid >
+        <v-row>
+          <v-col cols="12" md="2">
+            <v-img src="/profile_img.jpg" />
+            <p class="px-2">Contact information</p>
+            <p class="px-2">Name: Carlos J. Soto</p>
+            <p class="px-2">Email Address: <a href="mailto:cjs7363@psu.edu">cjs7363@psu.edu</a></p>
+            <p class="px-2">GitHub: <a href="https://github.com/otosjc" target="_blank">https://github.com/otosjc</a></p>
+            <p class="px-2">ORCID: 0000-0003-0645-5770</p>
+          </v-col>
+          <v-col cols="12" md="10">
+            <Nuxt />
+          </v-col>
+        </v-row>
       </v-container>
     </v-main>
     <v-footer
@@ -78,7 +90,13 @@ export default {
           icon: 'mdi-file-account'
         }
       ],
-      navDrawer: false
+      navDrawer: false,
+      yOffset: 0
+    }
+  },
+  methods: {
+    setYOffset(){
+      this.yOffset = window.scrollY
     }
   }
 }
