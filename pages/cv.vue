@@ -5,14 +5,24 @@ export default {
     return {
       titleTemplate: '%s - CV'
     }
-  }  
+  },
+  data(){
+    return {
+      pdfHeight: 500
+    }
+  },
+  mounted(){
+    this.pdfHeight = window.innerHeight * 0.8
+  }
 }
 </script>
 
 <template>
-  <v-row justify="center" align="center">
-    <v-col>
-      cv
-    </v-col>
-  </v-row>
+  <v-container >
+    <v-row>
+      <v-col cols="12">
+        <embed src="/CV.pdf" width="100%" :height="pdfHeight">
+      </v-col>
+    </v-row>    
+  </v-container>
 </template>
