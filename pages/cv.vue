@@ -1,4 +1,5 @@
 <script>
+
 export default {
   name: 'IndexPage',
   head(){
@@ -21,7 +22,7 @@ export default {
   <v-container >
     <v-row>
       <v-col cols="12">
-        <embed src="/CV.pdf" width="100%" :height="pdfHeight">
+        <iframe src="https://alex-bailon.github.io/assets/images/CV.pdf" width="100%" :height="pdfHeight"/>
       </v-col>
     </v-row>    
   </v-container>
