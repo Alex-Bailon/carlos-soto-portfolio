@@ -9,6 +9,17 @@ export default {
   `,
   papers: [
 	{
+	   title: `Carlos Soto, Karthik Bharath, Matthew Reimherr, and  Aleksandra Slavkovic. Shape And Structure Preserving Differential Privacy. <em> Advances in Neural Information Processing Systems</em>, 35, 2022`,
+      bibText: `@article{soto22shapestructure,
+        title={Shape And Structure Preserving Differential Privacy},
+        author={Soto, Carlos and  Bharath, Karthik and Reimherr, Matthew and Slavkovic, Aleksandra},
+        journal={Advances in Neural Information Processing Systems},
+        volume={35},
+        year={2022}
+        }`,
+      link: '',
+    },
+	{
       title: `Carlos Soto, Audrey Dalgarno, Darshan Bryner, Benjamin McLaughlin, Nicola Neretti, and Anuj
 			Srivastava. Representation of chromosome conformations using a shape alphabet across modeling
 			methods. In <em>2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</em>,
