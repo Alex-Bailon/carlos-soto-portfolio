@@ -17,7 +17,7 @@ export default {
         volume={35},
         year={2022}
         }`,
-      link: '',
+      link: 'https://arxiv.org/abs/2209.12667',
     },
 	{
       title: `Carlos Soto, Audrey Dalgarno, Darshan Bryner, Benjamin McLaughlin, Nicola Neretti, and Anuj
