@@ -15,8 +15,7 @@ export default {
         author={Soto, Carlos and  Bharath, Karthik and Reimherr, Matthew and Slavkovic, Aleksandra},
         journal={Advances in Neural Information Processing Systems},
         volume={35},
-        year={2022}
-        }`,
+        year={2022}}`,
       link: 'https://arxiv.org/abs/2209.12667',
     },
 	{
