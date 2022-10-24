@@ -19,10 +19,18 @@ export default {
       link: 'https://arxiv.org/abs/2209.12667',
     },
 	{
+      title: `Carlos Soto, Darshan Bryner, Audrey Dalgarno, Nicola Neretti, and Anuj
+			Srivastava. TADBay: A Bayesian construction of topologically associated domains 
+			To be published in: <em>2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</em>,
+			pages , 2022`,
+      bibText: `TBD`,
+      link: 'https://ieeexplore.ieee.org/',
+    },
+	{
       title: `Carlos Soto, Audrey Dalgarno, Darshan Bryner, Benjamin McLaughlin, Nicola Neretti, and Anuj
 			Srivastava. Representation of chromosome conformations using a shape alphabet across modeling
 			methods. In <em>2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</em>,
-			pages 151{156, 2021`,
+			pages 151-156, 2021`,
       bibText: `@INPROCEEDINGS{9669716,
 			author={Soto, Carlos and Dalgarno, Audrey and Bryner, Darshan and McLaughlin, Benjamin and Neretti, Nicola and Srivastava, Anuj},
 			booktitle={2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)}, 
