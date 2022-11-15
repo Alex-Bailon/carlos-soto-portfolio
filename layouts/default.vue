@@ -40,7 +40,7 @@
       <v-container fluid >
         <v-row>
           <v-col cols="12" md="2">
-            <v-img src="/profile_img.jpg" />
+            <v-img src="/profile_img.jpg" width="100%" min-height="200" />
             <p class="px-2">Contact information</p>
             <p class="px-2">Name: Carlos J. Soto</p>
             <p class="px-2">Email Address: <a href="mailto:cjs7363@psu.edu">cjs7363@psu.edu</a></p>
