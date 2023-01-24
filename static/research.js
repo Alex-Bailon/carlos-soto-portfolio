@@ -1,11 +1,5 @@
 export default {
-  intro: `For his PhD at Florida State University, Carlos' advisor was Anuj Srivastava where he 
-  applied statistical shape analysis to chromosomes and proteins. For his postdoc at
-  Pennsylvania State University he is being co-advised by Matthew Reimherr and 
-  Aleksandra (Seša) Slavkovic where he is working on extensions of differential privacy 
-  to manifolds and shape spaces. Carlos is interested in statistical and mathematical 
-  problems geometric in nature, but entertains any interesting problems. He enjoys 
-  theoretical challenges as well as computational implementation.
+  intro: `His general research interests include statistical shape analysis, manifold methods, differential privacy, and functional data analysis. 
   `,
   papers: [
 	{
@@ -23,8 +17,16 @@ export default {
 			Srivastava. TADBay: A Bayesian construction of topologically associated domains 
 			To be published in: <em>2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</em>,
 			pages , 2022`,
-      bibText: `TBD`,
-      link: 'https://ieeexplore.ieee.org/',
+      bibText: `@INPROCEEDINGS{9995248,
+			  author={Soto, Carlos and Bryner, Darshan and Dalgarno, Audrey and Neretti, Nicola and Srivastava, Anuj},
+			  booktitle={2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)}, 
+			  title={TADBay: A Bayesian Construction of Topologically Associated Domains}, 
+			  year={2022},
+			  volume={},
+			  number={},
+			  pages={233-240},
+			  doi={10.1109/BIBM55620.2022.9995248}}`,
+      link: 'https://ieeexplore.ieee.org/abstract/document/9995248',
     },
 	{
       title: `Carlos Soto, Audrey Dalgarno, Darshan Bryner, Benjamin McLaughlin, Nicola Neretti, and Anuj
