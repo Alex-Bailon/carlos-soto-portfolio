@@ -1,4 +1,6 @@
-export default `Carlos is currently a Lindsay Visiting Assistant Research Professor 
+export default `Carlos is currently an assistant professor in the Department of Mathematics
+and Statistics at <a href="https://www.umass.edu/mathematics-statistics/" target="_blank"> University of Massachusetts -- Amherst (UMass Amherst)</a>.
+He was previously a Lindsay Visiting Assistant Research Professor 
 (postdoctoral researcher) in the Department of Statistics at <a href="https://science.psu.edu/stat" target="_blank"> Pennsylvania State University</a>. 
 He received his PhD in biostatistics from <a href="https://stat.fsu.edu/" target="_blank">Florida State University</a>
  in 2020 under the supervision of Anuj Srivastava where he investigated the shape and structural properties of chromosomes and proteins.
