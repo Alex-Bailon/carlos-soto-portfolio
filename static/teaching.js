@@ -11,6 +11,20 @@ export default {
 			`,
 	quote: ` <em>The essence of mathematics lies entirely in its freedom.</em> -Georg Cantor`,
   courses: [
+  {
+      title: `<strong>Instructor</strong>`,
+      dates: `Spring 2024`,
+      school: '<em>University of Massachusetts Amherst</em>',
+	  location: '<em>Amherst, MA</em>',
+	  description: `Instructor for STAT 535: Statistical Computing.`,
+    },
+	{
+      title: `<strong>Instructor</strong>`,
+      dates: `Fall 2023`,
+      school: '<em>University of Massachusetts Amherst</em>',
+	  location: '<em>Amherst, MA</em>',
+	  description: `Instructor for STAT 515: Statistics I.`,
+    },
 	{
       title: `<strong>Instructor</strong>`,
       dates: `Spring 2021, Fall 2021`,
