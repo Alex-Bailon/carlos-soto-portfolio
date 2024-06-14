@@ -10,7 +10,8 @@ export default {
 			my teaching philosphy. For a more in-depth statement, please email me.
 			`,
 	quote: ` <em>The essence of mathematics lies entirely in its freedom.</em> -Georg Cantor`,
-  courses: [ {
+  courses: [ 
+  {
       title: `<strong>Instructor</strong>`,
       dates: `Spring 2024`,
       school: '<em>University of Massachusetts Amherst</em>',
