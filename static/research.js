@@ -1,5 +1,6 @@
 export default {
-  intro: `His general research interests include statistical shape analysis, manifold methods, differential privacy, and functional data analysis. 
+  intro: `Carlos is interested in information geometry. This would include statistical shape analysis, manifold methods, differential privacy, and functional data analysis. 
+  He enjoys theoretical challenges as well as computational implementation.
   `,
   papers: [
 	{
