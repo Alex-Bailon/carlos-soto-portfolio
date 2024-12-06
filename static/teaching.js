@@ -13,7 +13,7 @@ export default {
   courses: [ 
 	{
       title: `<strong>Instructor</strong>`,
-      dates: `Spring 2024`,
+      dates: `Spring 2024 - Fall 2024`,
       school: '<em>University of Massachusetts Amherst</em>',
 	  location: '<em>Amherst, MA</em>',
 	  description: `Instructor for STAT 535: Statistical Computing.`,
