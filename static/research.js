@@ -4,8 +4,18 @@ export default {
   `,
   papers: [
 	{
-	   title: `Carlos Soto, Karthik Bharath, Matthew Reimherr, and  Aleksandra Slavkovic. Shape And Structure Preserving Differential Privacy. <em> Advances in Neural Information Processing Systems</em>, 35, 2022`,
-      bibText: `@article{soto22shapestructure,
+	title: `Forthcoming: Carlos Soto,  Matthew Reimherr, Aleksandra Slavkovic, and Mark Shriver. Differentially Private Human Faces via Radial Curve Representation. <em>International Conference on Learning Representations</em>, 2025`,
+      	bibText: `@article{soto22shapestructure,
+        title={Differentially Private Human Faces via Radial Curve Representation.},
+        author={Soto, Carlos and Reimherr, Matthew and Slavkovic, Aleksandra and Shriver, Mark},
+        journal={International Conference on Learning Representations},
+        volume={35},
+        year={2025}}`,
+      	link: 'https://arxiv.org/abs/2409.08301',
+    },
+   {
+	title: `Carlos Soto, Karthik Bharath, Matthew Reimherr, and  Aleksandra Slavkovic. Shape And Structure Preserving Differential Privacy. <em> Advances in Neural Information Processing Systems</em>, 35, 2022`,
+      	bibText: `@article{soto22shapestructure,
         title={Shape And Structure Preserving Differential Privacy},
         author={Soto, Carlos and  Bharath, Karthik and Reimherr, Matthew and Slavkovic, Aleksandra},
         journal={Advances in Neural Information Processing Systems},

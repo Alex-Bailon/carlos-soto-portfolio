@@ -10,9 +10,9 @@ In 2020 Carlos received his PhD, and an MS in 2018, in biostatistics from <a hre
  shape analysis which is an area of research somewhere between differential geometry and statistics. </p>
  
 <p>Even further back, in 2015 he received an MS in mathematics at <a href="https://uwm.edu/math/" target="_blank">University of Wisconsin -- Milwaukee</a>
-under the supervision of Jay Beder. His academic career started at <a href="https://ripon.edu/" target="_blank">Ripon College</a> where received a BA in mathematics in 2011. 
+under the supervision of Jay Beder. His academic career started at <a href="https://ripon.edu/" target="_blank">Ripon College</a> where he received a BA in mathematics in 2011. 
 At the time, and 
-at time of writing this, Ripon did not offer a statistics degree, so there he did the equivalent of a double major in mathematics and statistics. </p>
+at the time of writing this, Ripon did not offer a statistics degree, so there he did the equivalent of a double major in mathematics and statistics. </p>
 
     
 
