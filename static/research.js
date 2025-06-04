@@ -4,6 +4,15 @@ export default {
   `,
   papers: [
 	{
+	title: `Preprint: Aditya Kulkarni and Carlos Soto. Differentially Private Geodesic and Linear Regression. <em> arxiv</em>, 2025`,
+      	bibText: `@article{kulkarni2025differentially,
+        title={Differentially Private Geodesic and Linear Regression.},
+        author={Kulkarni, Aditya and Soto, Carlos},
+        journal={arXiv preprint arXiv:2504.11304},
+        year={2025}}`,
+      	link: 'https://arxiv.org/abs/2504.11304',
+    },
+	{
 	title: `Forthcoming: Carlos Soto,  Matthew Reimherr, Aleksandra Slavkovic, and Mark Shriver. Differentially Private Human Faces via Radial Curve Representation. <em>International Conference on Learning Representations</em>, 2025`,
       	bibText: `@article{soto22shapestructure,
         title={Differentially Private Human Faces via Radial Curve Representation.},
