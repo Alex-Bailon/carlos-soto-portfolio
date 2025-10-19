@@ -4,6 +4,15 @@ export default {
   `,
   papers: [
 	{
+	title: `Preprint: Carlos Soto. Rao Differential Privacy. <em> arxiv</em>, 2025`,
+      	bibText: `@article{soto2025rao,
+        title={Rao Differential Privacy},
+        author={Soto, Carlos},
+        journal={arXiv preprint arXiv:2508.17135},
+        year={2025}}`,
+      	link: 'https://arxiv.org/abs/2508.17135',
+    },
+	{
 	title: `Preprint: Aditya Kulkarni and Carlos Soto. Differentially Private Geodesic and Linear Regression. <em> arxiv</em>, 2025`,
       	bibText: `@article{kulkarni2025differentially,
         title={Differentially Private Geodesic and Linear Regression.},
@@ -13,7 +22,7 @@ export default {
       	link: 'https://arxiv.org/abs/2504.11304',
     },
 	{
-	title: `Forthcoming: Carlos Soto,  Matthew Reimherr, Aleksandra Slavkovic, and Mark Shriver. Differentially Private Human Faces via Radial Curve Representation. <em>International Conference on Learning Representations</em>, 2025`,
+	title: `Carlos Soto,  Matthew Reimherr, Aleksandra Slavkovic, and Mark Shriver. Differentially Private Human Faces via Radial Curve Representation. <em>International Conference on Learning Representations</em>, 2025`,
       	bibText: `@article{soto22shapestructure,
         title={Differentially Private Human Faces via Radial Curve Representation.},
         author={Soto, Carlos and Reimherr, Matthew and Slavkovic, Aleksandra and Shriver, Mark},
