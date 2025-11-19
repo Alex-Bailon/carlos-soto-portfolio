@@ -1,11 +1,11 @@
 export default {
-  intro: `Carlos is interested in information geometry. This would include statistical shape analysis, manifold methods, differential privacy, and functional data analysis. 
-  He enjoys theoretical challenges as well as computational implementation.
+  intro: `Carlos' research interests lie at the intersection of geometry and statistics. This would include statistical shape analysis, manifold methods, differential privacy, and functional data analysis. 
+  He is currently interested in Reproducing Kernel Hilbert spaces, Lie Groups, and regression methods on manifoldss.
   `,
   papers: [
 	{
 	title: `Preprint: Carlos Soto. Rao Differential Privacy. <em> arxiv</em>, 2025`,
-      	bibText: `@article{soto2025rao,
+      	bibTeX: `@article{soto2025rao,
         title={Rao Differential Privacy},
         author={Soto, Carlos},
         journal={arXiv preprint arXiv:2508.17135},
@@ -14,7 +14,7 @@ export default {
     },
 	{
 	title: `Preprint: Aditya Kulkarni and Carlos Soto. Differentially Private Geodesic and Linear Regression. <em> arxiv</em>, 2025`,
-      	bibText: `@article{kulkarni2025differentially,
+      	bibTeX: `@article{kulkarni2025differentially,
         title={Differentially Private Geodesic and Linear Regression.},
         author={Kulkarni, Aditya and Soto, Carlos},
         journal={arXiv preprint arXiv:2504.11304},
@@ -23,7 +23,7 @@ export default {
     },
 	{
 	title: `Carlos Soto,  Matthew Reimherr, Aleksandra Slavkovic, and Mark Shriver. Differentially Private Human Faces via Radial Curve Representation. <em>International Conference on Learning Representations</em>, 2025`,
-      	bibText: `@article{soto22shapestructure,
+      	bibTeX: `@article{soto22shapestructure,
         title={Differentially Private Human Faces via Radial Curve Representation.},
         author={Soto, Carlos and Reimherr, Matthew and Slavkovic, Aleksandra and Shriver, Mark},
         journal={International Conference on Learning Representations},
@@ -33,7 +33,7 @@ export default {
     },
    {
 	title: `Carlos Soto, Karthik Bharath, Matthew Reimherr, and  Aleksandra Slavkovic. Shape And Structure Preserving Differential Privacy. <em> Advances in Neural Information Processing Systems</em>, 35, 2022`,
-      	bibText: `@article{soto22shapestructure,
+      	bibTeX: `@article{soto22shapestructure,
         title={Shape And Structure Preserving Differential Privacy},
         author={Soto, Carlos and  Bharath, Karthik and Reimherr, Matthew and Slavkovic, Aleksandra},
         journal={Advances in Neural Information Processing Systems},
@@ -46,7 +46,7 @@ export default {
 			Srivastava. TADBay: A Bayesian construction of topologically associated domains 
 			To be published in: <em>2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</em>,
 			pages , 2022`,
-      bibText: `@INPROCEEDINGS{9995248,
+      bibTeX: `@INPROCEEDINGS{9995248,
 			  author={Soto, Carlos and Bryner, Darshan and Dalgarno, Audrey and Neretti, Nicola and Srivastava, Anuj},
 			  booktitle={2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)}, 
 			  title={TADBay: A Bayesian Construction of Topologically Associated Domains}, 
@@ -62,7 +62,7 @@ export default {
 			Srivastava. Representation of chromosome conformations using a shape alphabet across modeling
 			methods. In <em>2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</em>,
 			pages 151-156, 2021`,
-      bibText: `@INPROCEEDINGS{9669716,
+      bibTeX: `@INPROCEEDINGS{9669716,
 			author={Soto, Carlos and Dalgarno, Audrey and Bryner, Darshan and McLaughlin, Benjamin and Neretti, Nicola and Srivastava, Anuj},
 			booktitle={2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)}, 
 			title={Representation of Chromosome Conformations Using a Shape Alphabet Across Modeling Methods}, 
@@ -76,7 +76,7 @@ export default {
     {
       title: `Carlos Soto, Darshan Bryner, Nicola Neretti, and Anuj Srivastava. Toward a three-dimensional 
         chromosome shape alphabet. <em> Journal of Computational Biology</em>, 2021`,
-      bibText: `@article{soto2021toward,
+      bibTeX: `@article{soto2021toward,
         title={Toward a Three-Dimensional Chromosome Shape Alphabet},
         author={Soto, Carlos and Bryner, Darshan and Neretti, Nicola and Srivastava, Anuj},
         journal={Journal of Computational Biology},
@@ -89,7 +89,7 @@ export default {
       title: `Carlos J Soto, Peiyao A Zhao, Kyle N Klein, David M Gilbert, and Anuj Srivastava. Statistical
         comparisons of chromosomal shape populations.In <em> 2021 IEEE 18th International Symposium on
         Biomedical Imaging(ISBI)</em>, pages 788 - 791. IEEE, 2021`,
-      bibText: `@inproceedings{soto2021statistical,
+      bibTeX: `@inproceedings{soto2021statistical,
         title={Statistical Comparisons Of Chromosomal Shape Populations},
         author={Soto, Carlos J and Zhao, Peiyao A and Klein, Kyle N and Gilbert, David M and Srivastava, Anuj},
         booktitle={2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI)},
@@ -102,7 +102,7 @@ export default {
     {
       title: `Matthew Reimherr, Karthik Bharath, and Carlos Soto. Differential privacy over riemannian
         manifolds. <em> Advances in Neural Information Processing Systems</em>, 34, 2021`,
-      bibText: `@article{reimherr2021differential,
+      bibTeX: `@article{reimherr2021differential,
         title={Differential privacy over Riemannian manifolds},
         author={Reimherr, Matthew and Bharath, Karthik and Soto, Carlos},
         journal={Advances in Neural Information Processing Systems},
@@ -115,7 +115,7 @@ export default {
       title: `Jose Cordova, Carlos Soto, Mostafa Gilanifar, Yuxun Zhou, Anuj Srivastava, and Reza Arghandeh.
         Shape preserving incremental learning for power systems fault detection. <em> IEEE control systems
         letters</em>, 3(1): 85 - 90, 2018`,
-      bibText: `@article{cordova2018shape,
+      bibTeX: `@article{cordova2018shape,
         title={Shape preserving incremental learning for power systems fault detection},
         author={Cordova, Jose and Soto, Carlos and Gilanifar, Mostafa and Zhou, Yuxun and Srivastava, Anuj and Arghandeh, Reza},
         journal={IEEE control systems letters},
