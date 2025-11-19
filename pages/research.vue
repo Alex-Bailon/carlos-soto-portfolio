@@ -16,7 +16,7 @@ export default {
     }
   },
   methods: {
-    copyBibText(){
+    copyBibTeX(){
       navigator.clipboard.writeText(this.dialogText)
     }
   }
@@ -30,7 +30,7 @@ export default {
       <ul>
         <li v-for="paper in papers" :key="paper.title" >
           <a :href="paper.link" target="_blank" v-html="paper.title"></a> --
-          <p @click="dialogText = paper.bibText, dialog = true" class="bibtextBtn">BibText</p>
+          <p @click="dialogText = paper.bibTeX, dialog = true" class="bibteXBtn">BibTeX</p>
         </li>
       </ul>
     </v-col>
@@ -41,7 +41,7 @@ export default {
     >
       <v-card>
         <v-card-title primary-title>
-          BibText 
+          BibTeX 
           <v-tooltip top>
             <template v-slot:activator="{ on, attrs }">
               <v-icon
@@ -49,12 +49,12 @@ export default {
                 v-bind="attrs"
                 v-on="on"
                 right
-                @click="copyBibText"
+                @click="copyBibTeX"
               >
                 mdi-content-copy
               </v-icon>
             </template>
-            <span>Copy BibText to Clipboard</span>
+            <span>Copy BibTex to Clipboard</span>
           </v-tooltip>
           <v-spacer />
           <v-icon @click="dialog = false">mdi-close</v-icon>
@@ -67,7 +67,7 @@ export default {
 </template>
 
 <style scoped lang="scss">
-  .bibtextBtn {
+  .bibteXBtn {
     cursor: pointer;
     color: red ;
     display: inline-block;
