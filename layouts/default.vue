@@ -41,12 +41,13 @@
         <v-row>
           <v-col cols="12" md="2">
             <v-img src="/profile_img.jpg" width="100%" min-height="200" />
-            <p class="px-2">Contact information</p>
+            <p class="px-2">Contact information:</p>
             <p class="px-2">Name: Carlos J. Soto</p>
-            <p class="px-2">Email Address: <a href="mailto:carlossoto@umass.edu">carlossoto@umass.edu</a></p>
-            <p class="px-2">Google Scholar: <a href="https://scholar.google.com/citations?user=KN5sEEkAAAAJ&hl=en" target="_blank">Google Scholar</a></p>
-			<p class="px-2">DBLP: <a href="https://dblp.org/pid/191/6617-2.html" target="_blank">DBLP</a></p>
-			<p class="px-2">GitHub: <a href="https://github.com/otosjc" target="_blank">https://github.com/otosjc</a></p>
+			<p class="px-2">Email Address: <a href="mailto:carlossoto@umass.edu">carlossoto@umass.edu</a></p>
+			<p class="px-2">My Links:</p>            
+            <p class="px-2"> <a href="https://scholar.google.com/citations?user=KN5sEEkAAAAJ&hl=en" target="_blank">Google Scholar</a></p>
+			<p class="px-2"> <a href="https://dblp.org/pid/191/6617-2.html" target="_blank">DBLP</a></p>
+			<p class="px-2"> <a href="https://github.com/otosjc" target="_blank">GitHub</a></p>
             <p class="px-2">ORCID: 0000-0003-0645-5770</p>
           </v-col>
           <v-col cols="12" md="10">
