@@ -5,10 +5,10 @@ export default {
   papers: [
 	{
 	title: `Preprint: Carlos Soto. Rao Differential Privacy. <em> arxiv</em>, 2025`,
-      	bibTeX: `@article{soto2025rao,
-        title={Rao Differential Privacy},
-        author={Soto, Carlos},
-        journal={arXiv preprint arXiv:2508.17135},
+      	bibTeX: `@article{soto2025rao,\n
+        title={Rao Differential Privacy},\n
+        author={Soto, Carlos},\n
+        journal={arXiv preprint arXiv:2508.17135},\n
         year={2025}}`,
       	link: 'https://arxiv.org/abs/2508.17135',
     },
