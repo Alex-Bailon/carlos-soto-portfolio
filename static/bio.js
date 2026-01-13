@@ -5,7 +5,7 @@ State University</a>. I received my PhD and an MS in biostatistics from <a href=
 an MS in mathematics at <a href="https://uwm.edu/math/" target="_blank">University of Wisconsin -- Milwaukee</a>.
 
 <p>
-My research interests include shape analysis, geometric statistics, functional data analysis, differential privacy, and  </p>
+My research interests include shape analysis, geometric statistics, functional data analysis, and differential privacy.</p>
 
 <p>
 My previous advisors include (alphabetically) Jay Beder, Matthew Reimherr, Aleksandra (Sesa) Slavkovic, and Anuj Srivastava. </p>

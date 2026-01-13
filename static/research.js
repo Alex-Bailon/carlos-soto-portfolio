@@ -1,6 +1,6 @@
 export default {
   intro: `My research interests lie at the intersection of geometry and statistics. This would include statistical shape analysis, manifold methods, differential privacy, and functional data analysis. 
-  I am currently interested in Reproducing Kernel Hilbert spaces, Lie Groups, and regression methods on manifoldss.
+  I am currently interested in Reproducing Kernel Hilbert spaces, Lie Groups, and regression methods on manifolds.
   `,
   papers: [
 	{
