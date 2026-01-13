@@ -10,9 +10,8 @@ My research interests include shape analysis, geometric statistics, functional d
 <p>
 My previous advisors include (alphabetically) Jay Beder, Matthew Reimherr, Aleksandra (Sesa) Slavkovic, and Anuj Srivastava. </p>
  
-<p> Other: </p>
-
-<p> I am interested in rock climbing, lifting, gaming, and music. I am an avid guitarist having played for nearly 20 years
+<p> Other: <br />
+I am interested in rock climbing, lifting, gaming, and music. I am an avid guitarist having played for nearly 20 years
   I have rock climbed in Alabama, Georgia, Kentucky, Tennessee, Massachusetts, Illinois, Wisconsin, and
   Colorado. (5.10 outdoor/5.11 indoor, V5 climber). </p>
 `
