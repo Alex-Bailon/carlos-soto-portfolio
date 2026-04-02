@@ -8,7 +8,7 @@ an MS in mathematics at <a href="https://uwm.edu/math/" target="_blank">Universi
 My research interests include shape analysis, geometric statistics, functional data analysis, and differential privacy.</p>
 
 <p>
-My previous advisors include (alphabetically) Jay Beder, Matthew Reimherr, Aleksandra (Sesa) Slavkovic, and Anuj Srivastava. </p>
+My previous advisors include (alphabetically) Jay Beder, Matthew Reimherr, Aleksandra (Sesa) Slavkovic, and <a href="https://scholar.google.com/citations?user=Kj-lB0MAAAAJ&hl=en&oi=ao" target="_blank">Anuj Srivastava</a>. </p>
  
 <p> Other: <br />
 I am interested in rock climbing, lifting, gaming, and music. I am an avid guitarist having played for nearly 20 years
