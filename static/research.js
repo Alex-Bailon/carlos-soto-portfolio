@@ -13,12 +13,12 @@ export default {
       	link: 'https://arxiv.org/abs/2508.17135',
     },
 	{
-	title: `Preprint: Aditya Kulkarni and Carlos Soto. Differentially Private Geodesic and Linear Regression. <em> arxiv</em>, 2025`,
-      	bibTeX: `@article{kulkarni2025differentially,
-        title={Differentially Private Geodesic and Linear Regression.},
+	title: `Aditya Kulkarni and Carlos Soto. Differentially Private Geodesic Regression. <em> International Conference on Machine Learning</em>, 2026`,
+      	bibTeX: `@inproceedings{kulkarni2025differentially,
+        title={Differentially Private Geodesic Regression.},
         author={Kulkarni, Aditya and Soto, Carlos},
-        journal={arXiv preprint arXiv:2504.11304},
-        year={2025}}`,
+        journal={International Conference on Machine Learning},
+        year={2026}}`,
       	link: 'https://arxiv.org/abs/2504.11304',
     },
 	{
