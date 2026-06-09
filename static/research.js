@@ -4,13 +4,32 @@ export default {
   `,
   papers: [
 	{
-	title: `Preprint: Carlos Soto. Rao Differential Privacy. <em> arxiv</em>, 2025`,
+	title: `Preprint: Carlos Soto, Cheng Wang, Zipan Huang, and Xiaoyu Chen. Intrinsic Riemannian Cross-covariance for Manifold-valued Random Objects. <em> arxiv</em>, 2026+`,
+		bibTeX: `@article{soto2026RiemannCrossCovar,\n
+		title={Intrinsic Riemannian Cross-covariance for Manifold-valued Random Objects.},\n
+		author={Soto, Carlos and Wang, Cheng and Huang, Zipan and Chen, Xiaoyu},\n
+		journal={arXiv preprint TBD},\n
+		year={2026}}`,
+		link: 'TBD',
+    },
+	{
+	title: `Preprint: Carlos Soto. Rao Differential Privacy. <em> arxiv</em>, 2026+`,
       	bibTeX: `@article{soto2025rao,\n
         title={Rao Differential Privacy},\n
         author={Soto, Carlos},\n
         journal={arXiv preprint arXiv:2508.17135},\n
         year={2025}}`,
       	link: 'https://arxiv.org/abs/2508.17135',
+    },
+	{
+	title: `Cheng Wang and Carlos Soto. Recursive Fr{\textbackslash}'echet Mean Estimation. <em> The Conference on Uncertainty in Artificial Intelligence </em>, 2026`,
+      	bibTeX: `@inproceedings{Wang2026Recursive,
+        title={Recursive Fr{\textbackslash}'echet Mean Estimation},
+        author={Wang, Cheng and Soto, Carlos},
+        booktitle={Forty-Second Annual Conference on Uncertainty in Artificial Intelligence},
+        year={2026}
+		url={https://openreview.net/forum?id=Zf5F32olq2}}`,
+      	link: 'https://openreview.net/forum?id=Zf5F32olq2',
     },
 	{
 	title: `Aditya Kulkarni and Carlos Soto. Differentially Private Geodesic Regression. <em> International Conference on Machine Learning</em>, 2026`,
