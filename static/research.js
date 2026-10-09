@@ -4,14 +4,15 @@ export default {
   `,
   papers: [
 	{
-	title: `Preprint: Carlos Soto, Cheng Wang, Zipan Huang, and Xiaoyu Chen. Intrinsic Riemannian Cross-covariance for Manifold-valued Random Objects. <em> arxiv</em>, 2026+`,
+	title: `Carlos Soto, Cheng Wang, Zipan Huang, and Xiaoyu Chen. Intrinsic Riemannian Cross-covariance for Manifold-valued Random Objects. <em> Advances in Neural Information Processing Systems</em>, 2026`,
 		bibTeX: `@article{soto2026RiemannCrossCovar,\n
 		title={Intrinsic Riemannian Cross-covariance for Manifold-valued Random Objects.},\n
 		author={Soto, Carlos and Wang, Cheng and Huang, Zipan and Chen, Xiaoyu},\n
-		journal={arXiv preprint TBD},\n
-		year={2026}}`,
-		link: 'TBD',
-    },
+		jbooktitle={The Fortieth Annual Conference on Neural Information Processing Systems},
+		year={2026},
+		url={https://openreview.net/forum?id=teJdXSWBH8}}`,
+		link: 'https://openreview.net/forum?id=teJdXSWBH8'
+	},
 	{
 	title: `Preprint: Carlos Soto. Rao Differential Privacy. <em> arxiv</em>, 2026+`,
       	bibTeX: `@article{soto2025rao,\n
